@@ -1,0 +1,14 @@
+C:\Users\sajan\source\repos\VehicleFactory\VehicleFactory\obj\Debug\VehicleFactory.csproj.AssemblyReference.cache
+C:\Users\sajan\source\repos\VehicleFactory\VehicleFactory\obj\Debug\MainWindow.baml
+C:\Users\sajan\source\repos\VehicleFactory\VehicleFactory\obj\Debug\MainWindow.g.cs
+C:\Users\sajan\source\repos\VehicleFactory\VehicleFactory\obj\Debug\App.g.cs
+C:\Users\sajan\source\repos\VehicleFactory\VehicleFactory\obj\Debug\VehicleFactory_MarkupCompile.cache
+C:\Users\sajan\source\repos\VehicleFactory\VehicleFactory\obj\Debug\VehicleFactory.g.resources
+C:\Users\sajan\source\repos\VehicleFactory\VehicleFactory\obj\Debug\VehicleFactory.Properties.Resources.resources
+C:\Users\sajan\source\repos\VehicleFactory\VehicleFactory\obj\Debug\VehicleFactory.csproj.GenerateResource.cache
+C:\Users\sajan\source\repos\VehicleFactory\VehicleFactory\obj\Debug\VehicleFactory.csproj.CoreCompileInputs.cache
+C:\Users\sajan\source\repos\VehicleFactory\VehicleFactory\bin\Debug\VehicleFactory.exe.config
+C:\Users\sajan\source\repos\VehicleFactory\VehicleFactory\bin\Debug\VehicleFactory.exe
+C:\Users\sajan\source\repos\VehicleFactory\VehicleFactory\bin\Debug\VehicleFactory.pdb
+C:\Users\sajan\source\repos\VehicleFactory\VehicleFactory\obj\Debug\VehicleFactory.exe
+C:\Users\sajan\source\repos\VehicleFactory\VehicleFactory\obj\Debug\VehicleFactory.pdb

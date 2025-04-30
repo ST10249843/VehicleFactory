@@ -1,0 +1,72 @@
+﻿<Window x:Class="VehicleFactoryWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Vehicle Factory Order"
+        Height="400" Width="480"
+        WindowStartupLocation="CenterScreen"
+        Background="#fafafa">
+    <Grid Margin="20">
+        <Border Background="White"
+                CornerRadius="12"
+                Padding="25"
+                BorderBrush="#e0e0e0"
+                BorderThickness="1">
+            <StackPanel VerticalAlignment="Center"
+                        HorizontalAlignment="Center"
+                        Width="320">
+
+                <TextBlock Text="🚗 Vehicle Factory Order"
+                           FontSize="22"
+                           FontWeight="Bold"
+                           Foreground="#990000"
+                           Margin="0,0,0,20"
+                           TextAlignment="Center"/>
+
+                <TextBlock Text="Vehicle Type"
+                           FontWeight="SemiBold"
+                           Foreground="#5a0000"
+                           Margin="0,0,0,5"/>
+                <ComboBox x:Name="VehicleComboBox"
+                          SelectionChanged="VehicleComboBox_SelectionChanged"
+                          Background="#fff5f5"
+                          BorderBrush="#ffcccc"
+                          FontSize="14"
+                          Padding="4"
+                          Margin="0,0,0,15">
+                    <ComboBoxItem Content="Car"/>
+                    <ComboBoxItem Content="Motorcycle"/>
+                    <ComboBoxItem Content="Truck"/>
+                </ComboBox>
+
+                <TextBlock Text="Engine Type"
+                           FontWeight="SemiBold"
+                           Foreground="#5a0000"
+                           Margin="0,0,0,5"/>
+                <ComboBox x:Name="EngineComboBox"
+                          Background="#fff5f5"
+                          BorderBrush="#ffcccc"
+                          FontSize="14"
+                          Padding="4"
+                          Margin="0,0,0,20"/>
+
+                <Button Content="Order Vehicle"
+                        Background="#c62828"
+                        Foreground="White"
+                        FontWeight="Bold"
+                        FontSize="14"
+                        Padding="10,6"
+                        Click="OrderButton_Click"
+                        BorderThickness="0"
+                        Cursor="Hand"
+                        Margin="0,0,0,15"/>
+
+                <TextBlock x:Name="ResultTextBlock"
+                           FontWeight="SemiBold"
+                           FontSize="14"
+                           Foreground="#d32f2f"
+                           TextWrapping="Wrap"
+                           TextAlignment="Center"/>
+            </StackPanel>
+        </Border>
+    </Grid>
+</Window>
