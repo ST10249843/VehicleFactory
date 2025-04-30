@@ -41,7 +41,9 @@ The user interface is developed using WPF with XAML. It includes:
 - A TextBlock that displays the result (confirmation message).
 
 Styling and layout:
-![Color Palette](https://www.color-hex.com/palettes/2539.png)
+<p align="center">
+  <img src="https://www.color-hex.com/palettes/2539.png" width="300" />
+</p>
 - Red-themed design for a bold and clean visual aesthetic.
 - Responsive layout with proper padding, margin, and alignment.
 - Compatibility ensured with .NET Framework and C# 7.3 and above.
