@@ -14,6 +14,10 @@ This application is a WPF-based desktop system developed in C#. It allows users 
 
 ## Design Patterns Implemented
 
+<p align="center">
+  <img src="https://media.geeksforgeeks.org/wp-content/uploads/20240624123320/Factory-Design-Pattern-vs-Abstract-Factory-Design-Pattern.webp" width="600" />
+</p>
+
 ### Factory Method
 
 The Factory Method pattern is used to create vehicle instances without exposing the instantiation logic to the client. This allows the program to determine the correct subclass at runtime based on user input.
