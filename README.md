@@ -42,8 +42,9 @@ The user interface is developed using WPF with XAML. It includes:
 
 Styling and layout:
 <p align="center">
-  <img src="https://www.color-hex.com/palettes/2539.png" width="300" />
+  <img src="https://www.color-hex.com/palettes/2539.png" width="600" />
 </p>
+
 - Red-themed design for a bold and clean visual aesthetic.
 - Responsive layout with proper padding, margin, and alignment.
 - Compatibility ensured with .NET Framework and C# 7.3 and above.
